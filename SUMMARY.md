@@ -2,13 +2,13 @@
 ​
 ## REST API
 ​
-* [First page's title](page1/README.md)    
-    * [Some child page](page1/page1-1.md)    
-    * [Some other child page](part1/page1-2.md)
+* [Overview](page1/README.md)    
+    * [How to use the REST API](page1/page1-1.md)    
+    * [Pagination](part1/page1-2.md)
 ​
-* [Second page's title](page2/README.md)    
-    * [Some child page](page2/page2-1.md)    
-    * [Some other child page](part2/page2-2.md)    
+* [Seasons](page2/README.md)    
+    * [Fixtures](page2/page2-1.md)    
+    * [Actions](part2/page2-2.md)    
 ​
 ## Live WebSockets
 ​
