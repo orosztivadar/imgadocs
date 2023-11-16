@@ -6,7 +6,7 @@
   * [Using the REST API](<Betting/API Links.md>)
   * [Authentication](Betting/page01.md)
   * [Pagination](<rest-api/pagination.md>)
-  * [Rate Limits](Betting/page01.md)
+  * [Rate Limits](rest-api/rate-limits.md)
   * [Error Handling](Betting/page01.md)
 
 ***
