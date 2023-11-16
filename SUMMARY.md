@@ -3,7 +3,7 @@
 ## REST API
 
 * [Overview](README.md)
-  * [Using the REST API](<Betting/API Links.md>)
+  * [Using the REST API](<rest-api/using-the-rest-api.md>)
   * [Authentication](Betting/page01.md)
   * [Pagination](<rest-api/pagination.md>)
   * [Rate Limits](rest-api/rate-limits.md)
