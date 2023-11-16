@@ -3,8 +3,8 @@
 ## REST API
 ​
 * [Overview](Betting/Tables.md)    
-    * [How to use the REST API](Betting/API Links.md)    
-    * [Pagination](Betting/README.md)
+    * [How to use the REST API](<Betting/API Links.md>)
+    * [Pagination](Betting/page01.md)
 ​
 * [Seasons](page2/README.md)    
     * [Fixtures](page2/page2-1.md)    
