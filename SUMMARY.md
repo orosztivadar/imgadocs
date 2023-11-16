@@ -9,13 +9,10 @@
     * [Rate Limits](Betting/page01.md)
     * [Error Handling](Betting/page01.md)
 ​
-* [Seasons](page2/README.md)
-  
-* [Fixtures](page2/page2-1.md)
-  
-* [Squads](Betting/page01.md)  
-* [Actions](Betting/page01.md)
-  
+* [Seasons](Betting/Tables.md)
+* [Fixtures](Betting/Tables.md)
+* [Squads](Betting/Tables.md)  
+* [Actions](Betting/Tables.md)
 * [Statistics](Betting/page01.md)   
 ​
 ## Live WebSockets
