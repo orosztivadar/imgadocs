@@ -1,6 +1,6 @@
 # Table of contents
 
-* [DDE](README.md)
+* [DDE Page](README.md)
 * [Page](Page.md)
 * [Betting](Betting/README.md)
   * [API Blocks](<Betting/API Links.md>)
