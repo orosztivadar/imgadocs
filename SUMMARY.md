@@ -1,33 +1,30 @@
-# Summary​
-​
+# Table of contents
+
 ## REST API
-​
-* [Overview](Betting/Tables.md)
-    * [Using the REST API](<Betting/API Links.md>)
-    * [Authentication](Betting/page01.md)
-    * [Pagination](<Betting/API Links.md>)
-    * [Rate Limits](Betting/page01.md)
-    * [Error Handling](Betting/page01.md)
 
-----
+* [Overview](README.md)
+  * [Using the REST API](<Betting/API Links.md>)
+  * [Authentication](Betting/page01.md)
+  * [Pagination](<Betting/API Links.md>)
+  * [Rate Limits](Betting/page01.md)
+  * [Error Handling](Betting/page01.md)
 
-* [Seasons](Betting/Tables.md)
-* [Fixtures](Betting/Tables.md)
-* [Squads](Betting/Tables.md)  
-* [Actions](Betting/Tables.md)
-* [Statistics](Betting/page01.md)   
-​
+***
+
+* [Seasons](README.md)
+* [Fixtures](README.md)
+* [Squads](README.md)
+* [Actions](README.md)
+* [Statistics](Betting/page01.md)
+
 ## Live WebSockets
 
-* [Overview](Betting/Tables.md)    
-    * [Using the WebSockets](<Betting/API Links.md>)
-    * [Authentication](Betting/page01.md)
-    * [Rate Limits](Betting/page01.md)
+* [Overview](README.md)
 * [Actions (Betting)](<Betting/API Links.md>)
 * [Statistics (Betting)](<Betting/API Links.md>)
 
 ## Data Points
 
-* [Last part without title](part3/title.md)
+* [Last part without title](data-points/last-part-without-title.md)
 
 ## Objects & Enumeration
