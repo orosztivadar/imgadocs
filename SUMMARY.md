@@ -5,7 +5,7 @@
 * [Overview](Betting/Tables.md)    
     * [Using the REST API](<Betting/API Links.md>)
     * [Authentication](Betting/page01.md)
-    * [Pagination](Betting/page01.md)
+    * [Pagination](<Betting/API Links.md>)
     * [Rate Limits](Betting/page01.md)
     * [Error Handling](Betting/page01.md)
 * [Seasons](Betting/Tables.md)
