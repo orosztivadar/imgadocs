@@ -2,9 +2,9 @@
 ​
 ## REST API
 ​
-* [Overview](betting/Tables.md)    
-    * [How to use the REST API](page1/page1-1.md)    
-    * [Pagination](part1/page1-2.md)
+* [Overview](Betting/Tables.md)    
+    * [How to use the REST API](Betting/API Links.md)    
+    * [Pagination](Betting/README.md)
 ​
 * [Seasons](page2/README.md)    
     * [Fixtures](page2/page2-1.md)    
