@@ -12,4 +12,8 @@
 ​
 ## Live WebSockets
 ​
-* [Yet another page](another-page.md)
+* [Live Actions](another-page.md)
+
+* ----
+
+* [Last part without title](part3/title.md)
