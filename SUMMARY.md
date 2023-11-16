@@ -2,7 +2,7 @@
 ​
 ## REST API
 ​
-* [Overview](page1/README.md)    
+* [Overview](betting/Tables.md)    
     * [How to use the REST API](page1/page1-1.md)    
     * [Pagination](part1/page1-2.md)
 ​
