@@ -11,7 +11,7 @@
 
 ***
 
-* [Seasons](README.md)
+* [Seasons](rest-api/seasons.md)
 * [Fixtures](README.md)
 * [Squads](README.md)
 * [Actions](README.md)
